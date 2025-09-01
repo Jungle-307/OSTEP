@@ -1,2 +1,13 @@
 .DS_Store
 /homework
+
+# C 컴파일된 실행 파일들
+*.o
+*.out
+*.exe
+*.elf
+*.bin
+a.out
+
+# 디버그 파일들
+*.dSYM/
